@@ -1,0 +1,31 @@
+[
+{
+  "directory": "D:\\Project\\river",
+  "arguments": ["cl.exe", "/c", "/EHsc", "/nologo", "/W3", "/Ox", "/fp:fast", "/std:c++17", "/Isrc", "/DNDEBUG", "/Fobuild\\.objs\\river_demo\\windows\\x64\\release\\src\\demo\\main.cpp.obj", "src\\demo\\main.cpp"],
+  "file": "src\\demo\\main.cpp"
+},
+{
+  "directory": "D:\\Project\\river",
+  "arguments": ["cl.exe", "/c", "/EHsc", "/nologo", "/W3", "/Ox", "/fp:fast", "/std:c++17", "/DNDEBUG", "/Fobuild\\.objs\\river\\windows\\x64\\release\\src\\brush.cpp.obj", "src\\brush.cpp"],
+  "file": "src\\brush.cpp"
+},
+{
+  "directory": "D:\\Project\\river",
+  "arguments": ["cl.exe", "/c", "/EHsc", "/nologo", "/W3", "/Ox", "/fp:fast", "/std:c++17", "/DNDEBUG", "/Fobuild\\.objs\\river\\windows\\x64\\release\\src\\device_context.cpp.obj", "src\\device_context.cpp"],
+  "file": "src\\device_context.cpp"
+},
+{
+  "directory": "D:\\Project\\river",
+  "arguments": ["cl.exe", "/c", "/EHsc", "/nologo", "/W3", "/Ox", "/fp:fast", "/std:c++17", "/DNDEBUG", "/Fobuild\\.objs\\river\\windows\\x64\\release\\src\\message.cpp.obj", "src\\message.cpp"],
+  "file": "src\\message.cpp"
+},
+{
+  "directory": "D:\\Project\\river",
+  "arguments": ["cl.exe", "/c", "/EHsc", "/nologo", "/W3", "/Ox", "/fp:fast", "/std:c++17", "/DNDEBUG", "/Fobuild\\.objs\\river\\windows\\x64\\release\\src\\window.cpp.obj", "src\\window.cpp"],
+  "file": "src\\window.cpp"
+},
+{
+  "directory": "D:\\Project\\river",
+  "arguments": ["cl.exe", "/c", "/EHsc", "/nologo", "/W3", "/Ox", "/fp:fast", "/std:c++17", "/DNDEBUG", "/Fobuild\\.objs\\river\\windows\\x64\\release\\src\\window_class.cpp.obj", "src\\window_class.cpp"],
+  "file": "src\\window_class.cpp"
+}]
